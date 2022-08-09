@@ -24,9 +24,17 @@ public class CatTest
     @Test
     public void getTalking()
     {
-        Cat testCat1 = new Cat("harry", "Meow", 5);
-        assertEquals("Meow", testCat1.getTalking());
+        Cat testCat = new Cat("harry", "Meow", 5);
+        assertEquals("Meow", testCat.getTalking());
     }
+
+    @Test
+    public void getAge()
+    {
+        Cat testCat1 = new Cat("harry", "Meow", 5);
+        assertEquals(5, testCat1.getAge());
+    }
+
 
 }
 
