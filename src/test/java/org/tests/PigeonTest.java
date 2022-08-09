@@ -28,4 +28,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
         assertEquals("Grey", newPigeon3.getColour());
     }
 
+    @Test
+    void getLifeStatus()
+    {
+        FlyingRat newPigeon4 = new FlyingRat();
+        assertEquals(true ,newPigeon4.isDead());
+    }
+
 }
