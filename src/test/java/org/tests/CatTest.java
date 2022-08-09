@@ -34,6 +34,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
         Cat testCat1 = new Cat("harry", "Meow", 5);
         assertEquals(5, testCat1.getAge());
     }
+    @Test
+    void getLifeStatus()
+    {
+        Cat newCat4 = new Cat("jeff", "Meow", 5);
+        assertEquals(false ,newCat4.isDead());
+    }
 
 
 }
