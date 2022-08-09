@@ -2,9 +2,9 @@ package org.example;
 
 public interface Flying
 {
-    public void takeOff();
+    public boolean takeOff();
     public void landing();
-    public void flap();
+    public boolean flap();
 
-    public void glide();
+    public boolean glide();
 }

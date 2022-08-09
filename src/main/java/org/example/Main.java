@@ -35,12 +35,26 @@ public class Main
 
 
         System.out.println(myPigeon.getName());
-        myPigeon.takeOff();
+        if(myPigeon.takeOff())
+        {
+            System.out.println("Woosh");
+            for(int i = 0; i < 10; i++)
+            {
+                myPigeon.flap();
+            }
+        }
+        else
+        {
+            System.out.println("Splat");
+        }
+
+
+
+
         myPigeon.flap();
         myPigeon.landing();
         myPigeon.eat();
         myPigeon.poop();
-
 
 
 

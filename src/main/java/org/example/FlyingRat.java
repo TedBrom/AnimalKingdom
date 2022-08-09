@@ -2,6 +2,11 @@ package org.example;
 
 public class FlyingRat extends Bird implements Flying
 {
+    float heading = 0f;
+    boolean canTakeoff = true;
+    boolean canGlide = true;
+    boolean canFlap = true;
+
     // declare constructor
     public FlyingRat()
     {
@@ -11,22 +16,21 @@ public class FlyingRat extends Bird implements Flying
     @Override
     public void poop()
     {
-        System.out.println("squeezing!");
+        System.out.println("You just washed your car HA!");
     }
 
     @Override
     public void eat()
     {
-        String eating = "Peck peck!!!";
-        System.out.println("peck peck? ");
+        System.out.println("One man's trash is another pigeons din din? ");
     }
 
 
 
     @Override
-    public void takeOff()
+    public boolean takeOff()
     {
-
+        return canTakeoff;
     }
 
     @Override
@@ -36,14 +40,15 @@ public class FlyingRat extends Bird implements Flying
     }
 
     @Override
-    public void flap()
+    public boolean flap()
     {
-
+        System.out.println("I'm flapping!!!");
+        return canFlap;
     }
 
     @Override
-    public void glide()
+    public boolean glide()
     {
-
+        return canGlide;
     }
 }
