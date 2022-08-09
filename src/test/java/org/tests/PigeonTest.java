@@ -5,7 +5,27 @@ import org.example.FlyingRat;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class PigeonTest
+ class PigeonTest
 {
-    // will use soon
+    @Test
+    void getPigeonAge()
+    {
+        FlyingRat newPigeon = new FlyingRat();
+        assertEquals(3, newPigeon.getAge());
+    }
+
+    @Test
+    void getPigeonName()
+    {
+        FlyingRat newPigeon2 = new FlyingRat();
+        assertEquals("Polly", newPigeon2.getName());
+
+    }
+    @Test
+    void getBirdColour()
+    {
+        FlyingRat newPigeon3 = new FlyingRat();
+        assertEquals("Grey", newPigeon3.getColour());
+    }
+
 }

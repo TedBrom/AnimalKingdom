@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="smells removed">
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/PigeonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/PigeonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/CatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/CatTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660061904478</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="smells removed">
+      <created>1660062148670</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1660062148670</updated>
+    </task>
+    <task id="LOCAL-00024" summary="smells removed">
+      <created>1660062285218</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660062285218</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
