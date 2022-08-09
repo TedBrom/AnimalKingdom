@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="coverage report generated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/CatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/CatTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="coverage report changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660057662390</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="coverage report changed">
+      <created>1660058528644</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660058528644</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,10 +220,11 @@
     <MESSAGE value="additional changes" />
     <MESSAGE value="coverage report generated?" />
     <MESSAGE value="coverage report generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="coverage report generated" />
+    <MESSAGE value="coverage report changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="coverage report changed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mavenAttempt1$AnimalKingdom.exec" NAME="AnimalKingdom Coverage Results" MODIFIED="1660057786237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/mavenAttempt1$AnimalKingdom.exec" NAME="AnimalKingdom Coverage Results" MODIFIED="1660058507412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>org.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/mavenAttempt1$AnimalKingdom.ic" NAME="AnimalKingdom Coverage Results" MODIFIED="1660057604384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
