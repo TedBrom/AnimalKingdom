@@ -7,6 +7,7 @@ public class Main
         // declare constructors and print statements
         System.out.println("Hello world!");
 
+        //Set values for constructors
         Cat myCat = new Cat("Larry", "meow", 9);
         Cat anotherCat = new Cat("Harry", "wow", 3);
         FlyingRat myPigeon = new FlyingRat();
