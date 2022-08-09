@@ -5,7 +5,7 @@ public abstract class Mammal extends Animal
     // declare variables
     private String name = "";
     private String talking = "";
-    public Mammal(String name, String talking)
+    protected Mammal(String name, String talking)
     {
         super(7, false);
         this.name = name;
