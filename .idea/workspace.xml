@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="implementing the interface to do some basic stuff">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
-    </list>
+    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="additional changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660046222751</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="additional changes">
+      <created>1660051449282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660051449282</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +140,7 @@
     <MESSAGE value="more small changes" />
     <MESSAGE value="comments and small changes" />
     <MESSAGE value="implementing the interface to do some basic stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementing the interface to do some basic stuff" />
+    <MESSAGE value="additional changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional changes" />
   </component>
 </project>

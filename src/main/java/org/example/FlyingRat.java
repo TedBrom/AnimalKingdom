@@ -36,7 +36,8 @@ public class FlyingRat extends Bird implements Flying
     @Override
     public void landing()
     {
-
+        //sonar lab wanted a comment here explaining why this method is empty
+        //I simply hadn't got to coding it yet.
     }
 
     @Override
