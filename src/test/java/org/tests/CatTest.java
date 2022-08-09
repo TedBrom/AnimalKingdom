@@ -10,8 +10,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
     @Test
      public void testGetCat()
     {
-        Cat testCat = new Cat("jeff", "Meow", 7);
-        assertEquals(7, testCat.getAge());
+        Cat testCat = new Cat("jeff", "Meow", 5);
+        assertEquals(5, testCat.getAge());
 
     }
     @Test
