@@ -2,6 +2,7 @@ package org.example;
 
 public abstract class Mammal extends Animal
 {
+    // declare variables
     private String name = "";
     private String talking = "";
     public Mammal(String name, String talking)

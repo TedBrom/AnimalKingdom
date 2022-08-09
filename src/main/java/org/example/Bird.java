@@ -2,7 +2,7 @@ package org.example;
 
 public abstract class Bird extends Animal
 {
-
+    // declare variables
     private String name = "";
     private String colour = "";
 

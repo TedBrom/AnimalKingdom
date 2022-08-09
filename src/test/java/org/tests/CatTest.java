@@ -11,7 +11,7 @@ public class CatTest
     public void test_get_cat()
     {
         Cat testCat = new Cat("jeff", "Meow", 9);
-        assertEquals(0, testCat.getAge());
+        assertEquals(9, testCat.getAge());
     }
     @Test
     public void getName()

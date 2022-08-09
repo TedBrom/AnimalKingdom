@@ -4,7 +4,7 @@ public class Cat extends Mammal
 {
 
 
-
+    // declare constrcutor
     public Cat(String name, String talking, int age)
     {
         super(name, talking);

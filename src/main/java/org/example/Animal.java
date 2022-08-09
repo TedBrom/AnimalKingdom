@@ -3,7 +3,7 @@ package org.example;
 public abstract class Animal
 {
 
-
+    // declare variables
     private boolean dead;
     private int age = 0;
 

@@ -4,6 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+        // declare constructors and print statements
         System.out.println("Hello world!");
 
         Cat myCat = new Cat("Larry", "meow", 9);

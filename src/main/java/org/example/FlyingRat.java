@@ -2,6 +2,7 @@ package org.example;
 
 public class FlyingRat extends Bird implements Flying
 {
+    // declare constructor
     public FlyingRat()
     {
         super("Polly", "Grey");
