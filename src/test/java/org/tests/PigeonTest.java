@@ -32,7 +32,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
     void getLifeStatus()
     {
         FlyingRat newPigeon4 = new FlyingRat();
-        assertEquals(true ,newPigeon4.isDead());
+        assertEquals(false ,newPigeon4.isDead());
     }
 
 }
