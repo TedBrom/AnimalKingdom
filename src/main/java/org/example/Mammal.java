@@ -7,7 +7,7 @@ public abstract class Mammal extends Animal
     private String talking = "";
     protected Mammal(String name, String talking)
     {
-        super(7, false);
+        super(5, false);
         this.name = name;
         this.talking = talking;
     }
