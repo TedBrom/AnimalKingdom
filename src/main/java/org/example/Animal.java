@@ -8,7 +8,7 @@ public abstract class Animal
     private int age = 0;
 
 
-    public Animal(int age, boolean dead)
+    protected Animal(int age, boolean dead)
     {
         this.age = age;
         this.dead = dead;

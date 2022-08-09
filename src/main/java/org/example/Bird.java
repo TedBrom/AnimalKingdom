@@ -6,7 +6,7 @@ public abstract class Bird extends Animal
     private String name = "";
     private String colour = "";
 
-    public Bird(String name, String colour)
+    protected Bird(String name, String colour)
     {
         super(3, false);
         this.name = name;

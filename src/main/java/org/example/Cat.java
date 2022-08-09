@@ -13,7 +13,6 @@ public class Cat extends Mammal
     @Override
     public void eat()
     {
-        String eating = "Nom nom";
         System.out.println("nom nom");
     }
     @Override

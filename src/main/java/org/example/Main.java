@@ -49,15 +49,10 @@ public class Main
         }
 
 
-
-
         myPigeon.flap();
         myPigeon.landing();
         myPigeon.eat();
         myPigeon.poop();
-
-
-
 
     }
 
