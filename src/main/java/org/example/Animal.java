@@ -7,6 +7,7 @@ public abstract class Animal
     private boolean dead;
     private int age = 0;
 
+
     public Animal(int age, boolean dead)
     {
         this.age = age;
