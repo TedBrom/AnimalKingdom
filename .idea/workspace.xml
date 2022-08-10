@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="smells removed">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/RunCucumberTest.java" afterDir="false" />
+    <list default="true" id="79b78a70-2cae-4389-a220-ae6823b58335" name="Changes" comment="added Cucumber (hopefully)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660124197758</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added Cucumber (hopefully)">
+      <created>1660129309193</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1660129309193</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,7 +329,8 @@
     <MESSAGE value="coverage report generated" />
     <MESSAGE value="coverage report changed" />
     <MESSAGE value="smells removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="smells removed" />
+    <MESSAGE value="added Cucumber (hopefully)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Cucumber (hopefully)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mavenAttempt1$AnimalKingdom.exec" NAME="AnimalKingdom Coverage Results" MODIFIED="1660058507412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">

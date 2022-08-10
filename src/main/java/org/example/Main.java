@@ -11,6 +11,7 @@ public class Main
         Cat myCat = new Cat("Larry", "meow", 9);
         Cat anotherCat = new Cat("Harry", "wow", 3);
         FlyingRat myPigeon = new FlyingRat();
+        myPigeon.flap();
 
 
         myCat.eat();
@@ -24,7 +25,7 @@ public class Main
         System.out.println(anotherCat.getTalking());
 
 
-
+        /*
         if (!myCat.isDead() && !myPigeon.isDead())
         {
             System.out.println("your pets are fine ");
@@ -49,11 +50,11 @@ public class Main
         }
 
 
-        myPigeon.flap();
+
         myPigeon.landing();
         myPigeon.eat();
         myPigeon.poop();
-
+        */
     }
 
 
