@@ -16,13 +16,13 @@ public class FlyingRat extends Bird implements Flying
     @Override
     public void poop()
     {
-        System.out.println("You just washed your car HA!");
+        System.out.println("You just washed your car HA!"); // NOPMD
     }
 
     @Override
     public void eat()
     {
-        System.out.println("One man's trash is another pigeons din din? ");
+        System.out.println("One man's trash is another pigeons din din? "); // NOPMD
     }
 
 
@@ -43,7 +43,7 @@ public class FlyingRat extends Bird implements Flying
     @Override
     public boolean flap()
     {
-        System.out.println("I'm flapping!!!");
+        System.out.println("I'm flapping!!!"); // NOPMD
         return canFlap;
     }
 
